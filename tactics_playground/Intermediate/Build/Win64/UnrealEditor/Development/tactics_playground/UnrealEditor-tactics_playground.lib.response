@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-tactics_playground.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\kylen\OneDrive\Documents\Unreal Projects\ue5-playground\tactics_playground\Intermediate\Build\Win64\tactics_playgroundEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\kylen\OneDrive\Documents\Unreal Projects\ue5-playground\tactics_playground\Intermediate\Build\Win64\UnrealEditor\Development\tactics_playground\tactics_playground.init.gen.cpp.obj"
+"C:\Users\kylen\OneDrive\Documents\Unreal Projects\ue5-playground\tactics_playground\Intermediate\Build\Win64\UnrealEditor\Development\tactics_playground\tactics_playgroundGameModeBase.gen.cpp.obj"
+"C:\Users\kylen\OneDrive\Documents\Unreal Projects\ue5-playground\tactics_playground\Intermediate\Build\Win64\UnrealEditor\Development\tactics_playground\tactics_playground.cpp.obj"
+"C:\Users\kylen\OneDrive\Documents\Unreal Projects\ue5-playground\tactics_playground\Intermediate\Build\Win64\UnrealEditor\Development\tactics_playground\tactics_playgroundGameModeBase.cpp.obj"
+"C:\Users\kylen\OneDrive\Documents\Unreal Projects\ue5-playground\tactics_playground\Intermediate\Build\Win64\UnrealEditor\Development\tactics_playground\Default.rc2.res"
+/OUT:"C:\Users\kylen\OneDrive\Documents\Unreal Projects\ue5-playground\tactics_playground\Intermediate\Build\Win64\UnrealEditor\Development\tactics_playground\UnrealEditor-tactics_playground.lib"

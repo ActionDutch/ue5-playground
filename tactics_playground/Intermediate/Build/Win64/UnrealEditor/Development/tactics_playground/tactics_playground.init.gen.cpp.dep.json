@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kylen\\onedrive\\documents\\unreal projects\\ue5-playground\\tactics_playground\\intermediate\\build\\win64\\unrealeditor\\inc\\tactics_playground\\uht\\tactics_playground.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kylen\\onedrive\\documents\\unreal projects\\ue5-playground\\tactics_playground\\intermediate\\build\\win64\\tactics_playgroundeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\kylen\\onedrive\\documents\\unreal projects\\ue5-playground\\tactics_playground\\intermediate\\build\\win64\\unrealeditor\\development\\tactics_playground\\definitions.tactics_playground.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
