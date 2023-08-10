@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\kylen\\OneDrive\\Documents\\Unreal Projects\\ue5-playground\\Tactics\\Source\\Tactics\\Tactics.Build.cs",
+		"C:\\Users\\kylen\\OneDrive\\Documents\\Unreal Projects\\ue5-playground\\Tactics\\Source\\Tactics.Target.cs",
+		"C:\\Users\\kylen\\OneDrive\\Documents\\Unreal Projects\\ue5-playground\\Tactics\\Source\\TacticsEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}

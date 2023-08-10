@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Tactics.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Tactics.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TacticsEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Tactics">
+      <UniqueIdentifier>{185AE5D8-914A-3BC1-A528-52AD99F872AB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Tactics\Tactics.Build.cs">
+      <Filter>Source\Tactics</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Tactics\Tactics.cpp">
+      <Filter>Source\Tactics</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tactics\Tactics.h">
+      <Filter>Source\Tactics</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Tactics\TacticsGameModeBase.cpp">
+      <Filter>Source\Tactics</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tactics\TacticsGameModeBase.h">
+      <Filter>Source\Tactics</Filter>
+    </ClInclude>
+    <Filter Include="Source\Tactics\Private">
+      <UniqueIdentifier>{24E063EE-3084-3909-9E0D-0FF87143784A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Tactics\Private\TacticsCore">
+      <UniqueIdentifier>{8A579AA0-0603-36FB-80D4-3AC6C7D48D56}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Tactics\Private\TacticsCore\TacticsGMBase.cpp">
+      <Filter>Source\Tactics\Private\TacticsCore</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Tactics\Private\TacticsCore\TacticsPawnBase.cpp">
+      <Filter>Source\Tactics\Private\TacticsCore</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Tactics\Private\TacticsCore\TacticsPlayerControllerBase.cpp">
+      <Filter>Source\Tactics\Private\TacticsCore</Filter>
+    </ClCompile>
+    <Filter Include="Source\Tactics\Public">
+      <UniqueIdentifier>{03336D26-237F-316B-BB43-A675AB91E22B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Tactics\Public\TacticsCore">
+      <UniqueIdentifier>{876CE364-0698-3B24-A53D-F18183BA829E}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Tactics\Public\TacticsCore\TacticsGMBase.h">
+      <Filter>Source\Tactics\Public\TacticsCore</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Tactics\Public\TacticsCore\TacticsPawnBase.h">
+      <Filter>Source\Tactics\Public\TacticsCore</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Tactics\Public\TacticsCore\TacticsPlayerControllerBase.h">
+      <Filter>Source\Tactics\Public\TacticsCore</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
